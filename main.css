@@ -1,0 +1,17 @@
+.body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.portfolio-image {
+    max-width: 100%;
+}
+
+.portfolio-data {
+    padding: 10px;
+}
+
+.content {
+    max-width: 1024px;
+}
